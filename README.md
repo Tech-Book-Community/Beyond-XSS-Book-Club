@@ -141,7 +141,7 @@
     <td>Note</td>
   </tr>
   <tr>
-    <td>2024/02/06</td>
+    <td>2025/02/06</td>
     <td>
       6-1 差一點的Figma XSS</br>6-2 繞過層層防禦：Proton Mail XSS</br>
       6-3 隱藏在Payment 功能中的Chrome 漏洞</br>
@@ -154,7 +154,7 @@
     <td><a href="https://github.com/Tech-Book-Community/Beyond-XSS-Book-Club/discussions/6">Note</a></td>
   </tr>
   <tr>
-    <td>2024/02/20</td>
+    <td>2025/02/20</td>
     <td>
       全書回顧討論會 - 齊畫架構圖
     </td>
