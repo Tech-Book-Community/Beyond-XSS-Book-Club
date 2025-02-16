@@ -150,8 +150,8 @@
     </td>
     <td>Lulu</td>
     <td>Yo0</td>
-    <td>Slide</td>
-    <td>Note</td>
+    <td><a href="https://chuchiang.github.io/marp_xss/">Slide</a></td>
+    <td><a href="https://github.com/Tech-Book-Community/Beyond-XSS-Book-Club/discussions/6">Note</a></td>
   </tr>
   <tr>
     <td>2024/02/20</td>
